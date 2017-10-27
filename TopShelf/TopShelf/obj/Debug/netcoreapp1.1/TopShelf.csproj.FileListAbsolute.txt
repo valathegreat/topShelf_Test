@@ -1,0 +1,10 @@
+G:\Other Imp Projects\Git\topShelf_Test\TopShelf\TopShelf\bin\Debug\netcoreapp1.1\TopShelf.deps.json
+G:\Other Imp Projects\Git\topShelf_Test\TopShelf\TopShelf\bin\Debug\netcoreapp1.1\TopShelf.runtimeconfig.json
+G:\Other Imp Projects\Git\topShelf_Test\TopShelf\TopShelf\bin\Debug\netcoreapp1.1\TopShelf.runtimeconfig.dev.json
+G:\Other Imp Projects\Git\topShelf_Test\TopShelf\TopShelf\bin\Debug\netcoreapp1.1\TopShelf.dll
+G:\Other Imp Projects\Git\topShelf_Test\TopShelf\TopShelf\bin\Debug\netcoreapp1.1\TopShelf.pdb
+G:\Other Imp Projects\Git\topShelf_Test\TopShelf\TopShelf\obj\Debug\netcoreapp1.1\TopShelf.csprojResolveAssemblyReference.cache
+G:\Other Imp Projects\Git\topShelf_Test\TopShelf\TopShelf\obj\Debug\netcoreapp1.1\TopShelf.csproj.CoreCompileInputs.cache
+G:\Other Imp Projects\Git\topShelf_Test\TopShelf\TopShelf\obj\Debug\netcoreapp1.1\TopShelf.AssemblyInfo.cs
+G:\Other Imp Projects\Git\topShelf_Test\TopShelf\TopShelf\obj\Debug\netcoreapp1.1\TopShelf.dll
+G:\Other Imp Projects\Git\topShelf_Test\TopShelf\TopShelf\obj\Debug\netcoreapp1.1\TopShelf.pdb

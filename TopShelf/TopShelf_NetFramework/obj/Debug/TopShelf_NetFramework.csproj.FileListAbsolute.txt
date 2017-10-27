@@ -1,0 +1,9 @@
+G:\Other Imp Projects\Git\topShelf_Test\TopShelf\TopShelf_NetFramework\bin\Debug\TopShelf_NetFramework.exe.config
+G:\Other Imp Projects\Git\topShelf_Test\TopShelf\TopShelf_NetFramework\bin\Debug\TopShelf_NetFramework.exe
+G:\Other Imp Projects\Git\topShelf_Test\TopShelf\TopShelf_NetFramework\bin\Debug\TopShelf_NetFramework.pdb
+G:\Other Imp Projects\Git\topShelf_Test\TopShelf\TopShelf_NetFramework\bin\Debug\Topshelf.dll
+G:\Other Imp Projects\Git\topShelf_Test\TopShelf\TopShelf_NetFramework\bin\Debug\Topshelf.xml
+G:\Other Imp Projects\Git\topShelf_Test\TopShelf\TopShelf_NetFramework\obj\Debug\TopShelf_NetFramework.csprojResolveAssemblyReference.cache
+G:\Other Imp Projects\Git\topShelf_Test\TopShelf\TopShelf_NetFramework\obj\Debug\TopShelf_NetFramework.csproj.CoreCompileInputs.cache
+G:\Other Imp Projects\Git\topShelf_Test\TopShelf\TopShelf_NetFramework\obj\Debug\TopShelf_NetFramework.exe
+G:\Other Imp Projects\Git\topShelf_Test\TopShelf\TopShelf_NetFramework\obj\Debug\TopShelf_NetFramework.pdb
